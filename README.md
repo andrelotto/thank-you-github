@@ -520,7 +520,7 @@ Signed,
 - Prempal Singh ([@prempalsingh](https://github.com/prempalsingh)), Android Developer
 - Gautam Chaudhary ([@gchaudhary](https://github.com/gchaudhary)), Android Developer, Computer Science and Engineering at IIT Roorkee, India
 - Vedant Rathore ([@vedantrathore](https://github.com/vedantrathore)), Developer, Student at IIT Guwahati
-- Jéferson Bueno ([@jefhtavares](https://github.com/jefhtavares)), .NET Developer, [Passionate developer](pt.stackoverflow.com/u/18246), Computer Science undergraduate at Unisinos, Brazil.
+- Jéferson Bueno ([@jfbueno](https://github.com/jfbueno)), .NET Developer, [Passionate developer](http://pt.stackoverflow.com/u/18246), Computer Science undergraduate at Unisinos, Brazil.
 - Rhys Bradbury ([@iRhysBradbury](https://github.com/irhysbradbury)), Full Stack Developer
 - Nitin Jain ([@nitinjain96](https://github.com/nitinjain96)), Developer,Computer Science Engg Undergraduate at IIT Roorkee, India.
 - Debashish Nayak ([@theindianotaku](https://github.com/theindianotaku)), Designer, Metallurgical and Materials Engg Undergraduate at IIT Roorkee, India.
